@@ -1,0 +1,20 @@
+{
+  "title": "Shift Scheduler",
+  "add_shift": "Add Shift",
+  "add_worker": "Add Worker",
+  "date": "Date",
+  "slot": "Slot",
+  "required": "Required",
+  "submit_shift": "Add Shift",
+  "id": "ID",
+  "name": "Name",
+  "max_shifts": "Max Shifts",
+  "add_availability": "Add Availability",
+  "submit_worker": "Add Worker",
+  "calculate": "Calculate Schedule",
+  "assigned_shifts": "Assigned Shifts",
+  "morning": "Morning",
+  "evening": "Evening",
+  "insert_date": "Insert date (YYYY-MM-DD)",
+  "insert_slot":"Inserisci slot (mattina/sera)"
+}

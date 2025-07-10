@@ -1,0 +1,20 @@
+{
+  "title": "Pianificatore Turni",
+  "add_shift": "Aggiungi Turno",
+  "add_worker": "Aggiungi Lavoratore",
+  "date": "Data",
+  "slot": "Fascia oraria",
+  "required": "Richiesti",
+  "submit_shift": "Aggiungi Turno",
+  "id": "ID",
+  "name": "Nome",
+  "max_shifts": "Turni Massimi",
+  "add_availability": "Aggiungi Disponibilità",
+  "submit_worker": "Aggiungi Lavoratore",
+  "calculate": "Calcola Turni",
+  "assigned_shifts": "Turni Assegnati",
+  "morning": "Mattina",
+  "evening": "Pomeriggio",
+  "insert_date": "Inserisci data (YYYY-MM-DD)",
+  "insert_slot":"Inserisci slot (mattina/sera)"
+}
